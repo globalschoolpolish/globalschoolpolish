@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Wskazanie sitemapy aby przyspieszyć indeksowanie
-Sitemap: https://globalschoolpolish.github.io/sitemap.xml
+Sitemap: https://globalschoolpolish.github.io/globalschoolpolish/sitemap.xml
