@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- STRONA GŁÓWNA (Polska) -->
   <url>
     <loc>https://globalschoolpolish.github.io/globalschoolpolish/</loc>
-    <!-- Zmieniona na dzisiejszą datę gwarantuje szybszą reakcję botów -->
     <lastmod>2026-10-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
+    
+    <xhtml:link rel="alternate" hreflang="pl" href="https://globalschoolpolish.github.io/globalschoolpolish/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://globalschoolpolish.github.io/globalschoolpolish/english.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://globalschoolpolish.github.io/globalschoolpolish/" />
   </url>
+
+  <!-- WERSJA ANGIELSKA -->
+  <url>
+    <loc>https://globalschoolpolish.github.io/globalschoolpolish/english.html</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    
+    <xhtml:link rel="alternate" hreflang="pl" href="https://globalschoolpolish.github.io/globalschoolpolish/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://globalschoolpolish.github.io/globalschoolpolish/english.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://globalschoolpolish.github.io/globalschoolpolish/" />
+  </url>
+
 </urlset>
